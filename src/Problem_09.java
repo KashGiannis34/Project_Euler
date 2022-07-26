@@ -1,5 +1,5 @@
 //Special Pythagorean triplet
-public class Problem_9 {
+public class Problem_09 {
     public static void main(String[] args) {
         for (int a = 1; a < 999; a++)
         {

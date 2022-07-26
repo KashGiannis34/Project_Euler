@@ -1,5 +1,5 @@
 //Sum square difference
-public class Problem_6 {
+public class Problem_06 {
     public static void main(String[] args) {
         int sumsq = 0;
         for (int n = 1; n <= 100; n++)

@@ -1,5 +1,5 @@
 //Largest palindrome product
-public class Problem_4 {
+public class Problem_04 {
     public static void main(String[] args) {
         int max = Integer.MIN_VALUE;
         for (int a = 999; a >= 100; a--)

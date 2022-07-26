@@ -1,5 +1,5 @@
 //Smallest multiple
-public class Problem_5 {
+public class Problem_05 {
     public static void main(String[] args) {
         int n = 2;
         while (true)

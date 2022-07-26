@@ -2,9 +2,9 @@
 import java.util.Objects;
 import java.util.Scanner;
 
-public class Problem_8 {
+public class Problem_08 {
     public static void main(String[] args) {
-        String sNum = new Scanner(Objects.requireNonNull(Problem_8.class.getResourceAsStream("/p08.txt"))).nextLine();
+        String sNum = new Scanner(Objects.requireNonNull(Problem_08.class.getResourceAsStream("/p08.txt"))).nextLine();
         long max = -1L;
         for (int n = 0; n <= sNum.length()-13; n++)
         {

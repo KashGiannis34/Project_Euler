@@ -1,5 +1,5 @@
 //Largest prime factor
-public class Problem_3 {
+public class Problem_03 {
     public static void main(String[] args) {
         long num = 600851475143L;
         while (true)
