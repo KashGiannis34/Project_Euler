@@ -1,3 +1,4 @@
+//Consecutive prime sum
 import java.util.ArrayList;
 
 public class Problem_50 {

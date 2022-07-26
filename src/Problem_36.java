@@ -1,5 +1,4 @@
-import javax.swing.*;
-import javax.swing.plaf.basic.BasicInternalFrameTitlePane;
+//Double-base palindromes
 
 public class Problem_36 {
     public static void main(String[] args) {

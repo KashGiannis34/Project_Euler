@@ -1,3 +1,4 @@
+//Triangular, pentagonal, and hexagonal
 import java.math.BigInteger;
 import java.util.HashMap;
 

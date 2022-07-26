@@ -1,3 +1,4 @@
+//Non-abundant sums
 public class Problem_23 {
     public static boolean abundant(int n) {
         return (Problem_21.sum(n) > n);

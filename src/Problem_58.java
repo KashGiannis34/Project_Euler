@@ -1,3 +1,4 @@
+//Spiral primes
 public class Problem_58 {
     public static void main(String[] args) {
         double percent = 1;

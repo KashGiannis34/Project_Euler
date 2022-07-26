@@ -1,3 +1,4 @@
+//Amicable numbers
 public class Problem_21 {
     public static int sum(int n) {
         int sum = 1;

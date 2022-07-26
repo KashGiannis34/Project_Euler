@@ -1,3 +1,4 @@
+//Number letter counts
 public class Problem_17 {
     public static void main(String[] args) {
         String[] firstwords = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "and"};

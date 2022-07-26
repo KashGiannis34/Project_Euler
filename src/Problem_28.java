@@ -1,3 +1,4 @@
+//Number spiral diagonals
 public class Problem_28 {
     public static long equation(long x) {
         return 4*(2*x+1)*(2*x+1)-(12*x);

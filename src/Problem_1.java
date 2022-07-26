@@ -1,3 +1,4 @@
+//Multiples of 3 or 5
 public class Problem_1 {
     public static void main(String[] args) {
         int sum = 0;

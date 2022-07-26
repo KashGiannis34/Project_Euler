@@ -1,3 +1,4 @@
+//Smallest multiple
 public class Problem_5 {
     public static void main(String[] args) {
         int n = 2;

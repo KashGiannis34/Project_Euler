@@ -1,3 +1,4 @@
+//Highly divisible triangular number
 public class Problem_12 {
     public static void main(String[] args) {
         int n = 1;

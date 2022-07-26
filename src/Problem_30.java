@@ -1,3 +1,4 @@
+//Digit fifth powers
 public class Problem_30 {
     public static long sum5(long x) {
         long sum = 0;

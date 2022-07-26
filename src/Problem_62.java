@@ -1,6 +1,6 @@
+//Cubic permutations
 import java.math.BigInteger;
 import java.util.*;
-
 
 public class Problem_62 {
     private static HashMap<BigInteger, Integer> cubes = new HashMap<>();

@@ -1,3 +1,4 @@
+//Champernowne's constant
 public class Problem_40 {
     public static void main(String[] args) {
         String sNum = "";

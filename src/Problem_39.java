@@ -1,3 +1,4 @@
+//Integer right triangles
 import java.util.ArrayList;
 public class Problem_39 {
     public static void main(String[] args) {

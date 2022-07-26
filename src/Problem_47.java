@@ -1,3 +1,4 @@
+//Distinct primes factors
 import java.util.ArrayList;
 
 public class Problem_47 {

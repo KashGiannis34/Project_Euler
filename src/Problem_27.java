@@ -1,5 +1,5 @@
+//Quadratic primes
 import java.util.ArrayList;
-import java.util.Arrays;
 public class Problem_27 {
     public static long quad(long x1, long c, int x) {
         return (long) x * x + x1 * x + c;
